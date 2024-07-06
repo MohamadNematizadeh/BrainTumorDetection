@@ -14,8 +14,4 @@ pip install -r requirements.txt
 ```
 python src/gui.py
 ```
-## face_bank
-
 ![alt text](https://raw.githubusercontent.com/Mohammadnematizade/Brain-Tumor/main/output/1.png)
-
-![alt text](https://raw.githubusercontent.com/Mohammadnematizade/Brain-Tumor/main/output/2.png)
