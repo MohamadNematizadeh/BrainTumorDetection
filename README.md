@@ -1,8 +1,10 @@
-# 🧠 Brain Tumor
+# 🧠 Brain Tumor Detection
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,opencv)]()
 
-Diagnosis of brain tumor by python built in graphical environment
+This is a repository for identifying and analyzing brain tumors using machine learning and artificial intelligence.🧠
 
 ## Installation
+
 install requirements
 ```
 pip install -r requirements.txt
